@@ -1,0 +1,6 @@
+To execute code.
+1) uncomment one of the print statements in foxes.py.
+2) right click on uninformed_search.py
+3) click 'Run'
+- This code does not require any terminal input to run. Just an instantiation of a problem object from FoxProblem.py
+with a desired start state (see top of foxes.py for examples)
